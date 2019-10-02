@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "341240118605",
+    "firebase_url": "https://iotproject-47b79.firebaseio.com",
+    "project_id": "iotproject-47b79",
+    "storage_bucket": "iotproject-47b79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341240118605:android:40dce421984475cb",
+        "android_client_info": {
+          "package_name": "com.example.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341240118605-1pmh7jfdhdasegk7gkq0crru9n5iq86a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarthome",
+            "certificate_hash": "133b4c88904c2926edde4252c455a2e5c9e782a5"
+          }
+        },
+        {
+          "client_id": "341240118605-enmp68dhb6v7cvhurb1hcf3gkuqptdeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe1ZkzquF90ws8KErWxAIdR_LjtqBDpb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341240118605-enmp68dhb6v7cvhurb1hcf3gkuqptdeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
